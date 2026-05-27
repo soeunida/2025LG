@@ -1,0 +1,3 @@
+/home/soeun/EdgeTAM/notebooks/trt/build/CMakeFiles/trt_infer.dir
+/home/soeun/EdgeTAM/notebooks/trt/build/CMakeFiles/edit_cache.dir
+/home/soeun/EdgeTAM/notebooks/trt/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/trt_infer.dir/main.cpp.o -o trt_infer  -lnvinfer -lcudart 

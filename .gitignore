@@ -1,0 +1,14 @@
+
+# model checkpoints / large files
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+checkpoints/
+**/checkpoints/
+sam2_logs/
+**/sam2_logs/
+wandb/
+runs/
+outputs/
